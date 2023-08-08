@@ -37,6 +37,4 @@ This will run the simulation and generate a plot showing the membrane potential 
 - `README.md`: This file contains information about the project, its dependencies, and how to run the script.
 
 
-## License
 
-This project is licensed under the MIT License.
